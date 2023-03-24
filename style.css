@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: aqua;
+    height: 100vh;
+}
+
+.email-list{
+    text-align: center;
+    padding-top: 50px;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding-left: 20px;    
+}
